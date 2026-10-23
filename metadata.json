@@ -1,0 +1,6 @@
+{
+  "name": "متصفح الألعاب",
+  "description": "متصفح ويب أندرويد سريع يدعم تسريع الرسوميات GPU وWebGL واللغة العربية بالكامل مع وصول مباشر للعبة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

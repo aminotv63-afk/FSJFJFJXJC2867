@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">متصفح الألعاب</string>
+    <string name="play_game">تشغيل اللعبة</string>
+    <string name="game_url">https://v2.fiveplay.lol/launcher.html</string>
+    <string name="default_home_url">https://v2.fiveplay.lol/launcher.html</string>
+    <string name="direct_game_url">https://v2.fiveplay.lol/game.html?mode=sandbox&amp;fps=60&amp;scale=1&amp;shadows=0&amp;bcfallback=force</string>
+    <string name="refresh">تحديث</string>
+    <string name="back">رجوع</string>
+    <string name="forward">تقدم</string>
+    <string name="home">الرئيسية</string>
+    <string name="fullscreen">ملء الشاشة</string>
+    <string name="exit_fullscreen">إلغاء ملء الشاشة</string>
+    <string name="url_placeholder">أدخل رابط الموقع أو ابحث...</string>
+    <string name="hardware_accel_badge">تسريع GPU و WebGL مفعّل</string>
+    <string name="loading">جاري التحميل…</string>
+    <string name="error_loading">تعذر تحميل الصفحة، يرجى التحقق من الاتصال</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="permission_title">الصلاحيات والتجربة المثلى</string>
+    <string name="permission_desc">تم تفعيل صلاحيات الإنترنت وتسريع الرسوميات للعبة. هل ترغب في تفعيل إشعارات التنزيل والتحديثات؟</string>
+    <string name="grant_permissions">تفعيل الصلاحيات</string>
+    <string name="skip">تخطي</string>
+    <string name="settings">إعدادات المتصفح</string>
+    <string name="clear_cache">تفريغ ذاكرة التخزين</string>
+    <string name="cache_cleared">تم تفريغ الذاكرة المؤقتة بنجاح</string>
+    <string name="desktop_mode">وضع الكمبيوتر</string>
+    <string name="mobile_mode">وضع الهاتف</string>
+    <string name="gpu_boost">وضع تعزيز أداء الألعاب</string>
+    <string name="open_in_chrome">فتح في Chrome</string>
+    <string name="direct_play">بدء فوري للعبة</string>
+    <string name="launcher_menu">مشغل الإعدادات</string>
+    <string name="isolated_memory_bypass">تجاوز قيود الذاكرة</string>
+    <string name="isolated_memory_bypass_applied">تم حقن ترويسات العزل وتجاوز فحص SharedArrayBuffer</string>
+</resources>
